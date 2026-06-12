@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Rohith 👋
 
-<!--
-**ro-kannan/ro-kannan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analytics Engineering · BI & Visualization · AI Agents · Cloud Infrastructure
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+
+**Data Engineering & Warehouses:** dbt · Apache Airflow · PySpark · AWS Glue · PostgreSQL · MS SQL · Snowflake · BigQuery · Redshift · AWS Redshift · Python
+**AI/ML:** RAG · LangGraph · OpenAI API · Ollama · pgvector · ChromaDB  
+**Cloud:** AWS · Azure   
+**BI & Visualization:** Power BI · Tableau · Looker Studio
+
+---
+
+## 💼 Background
+
+4 years at a data consulting firm delivering end-to-end data projects across **pharma, retail, finance, and SaaS** — spanning ML, data engineering, and BI.
+
+Managed projects end-to-end — from scoping and SOW through delivery and closure — across client-facing engagements. Operated across the full project lifecycle in a fast-paced, high-ownership environment, balancing hands-on delivery with client stakeholder management.
+
+---
