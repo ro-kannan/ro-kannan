@@ -23,7 +23,7 @@ Managed engagements end-to-end — from scoping and SOW through delivery and clo
 
 ## Work samples
 
-Hands-on implementations of recurring patterns from client engagements, published as open-source demos.
+Recurring patterns from client engagements, rebuilt as sample solutions with synthetic data.
 
 | Project | Stack | Demo |
 |---------|-------|------|
