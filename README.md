@@ -15,7 +15,7 @@ Analytics Engineering · BI & Visualization · AI Agents · Cloud Infrastructure
 
 ## Background
 
-4 years at a data consulting firm delivering end-to-end data projects across **BFSI, pharma, retail, and SaaS** — spanning data engineering, BI, and analytics. Client work included pharma commercial reporting, lending data platforms, GA4 marketing analytics, and retail demand analytics across US, UK, and Sri Lanka markets.
+MBA in Big Data Analytics. 4 years at a data consulting firm delivering end-to-end data projects across **BFSI, pharma, retail, and SaaS** — spanning data engineering, BI, and analytics. Client work included pharma commercial reporting, lending data platforms, GA4 marketing analytics, and retail demand analytics across US, UK, and Sri Lanka markets.
 
 Managed engagements end-to-end — from scoping and SOW through delivery and closure — balancing hands-on technical delivery with client stakeholder management.
 
