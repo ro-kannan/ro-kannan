@@ -28,6 +28,7 @@ Recurring patterns from client engagements, rebuilt as sample solutions with syn
 | Project | Stack | Demo |
 |---------|-------|------|
 | [dbt Metrics Layer — Pharma KPI Governance](https://github.com/ro-kannan/dbt-metricflow-pharma-analytics-governance) | dbt · MetricFlow · DuckDB · Streamlit | [Live](https://dbt-metricflow-pharma-analytics-governance.streamlit.app) |
+| [Multi-Consumer AI Data Gateway](https://github.com/ro-kannan/multi-consumer-ai-data-gateway) | FastAPI · SQLAlchemy · PostgreSQL · Python | — |
 | [SCD Type 2 — Lending Dimension](https://github.com/ro-kannan/scd-type2-lending) | dbt · DuckDB · Python | — |
 | [On-Prem to Cloud Migration](https://github.com/ro-kannan/aws-snowflake-onprem-migration) | AWS · Snowflake · EC2 · dbt | — |
 | [Analytics Engineering — E-commerce Pipeline](https://github.com/ro-kannan/analytics-eng-dbt-ecommerce) | dbt · PostgreSQL · Python | — |
