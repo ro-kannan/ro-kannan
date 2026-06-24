@@ -1,4 +1,4 @@
-# Hi, I'm Rohith
+# Hi, I am Rohith
 
 Analytics Engineering · BI & Visualization · AI Agents · Cloud Infrastructure
 
@@ -28,6 +28,7 @@ Recurring patterns from client engagements, rebuilt as sample solutions with syn
 | Project | Description | Stack | Demo |
 |---------|-------------|-------|------|
 | [dbt Metrics Layer — Pharma KPI Governance](https://github.com/ro-kannan/dbt-metricflow-pharma-analytics-governance) | Five teams, one KPI, five different answers — a Semantic Layer that enforces a single definition. | dbt · MetricFlow · DuckDB · Streamlit | [Live](https://dbt-metricflow-pharma-analytics-governance.streamlit.app) |
+| [Airflow Retail Order Pipeline — AWS S3 Dead-Letter](https://github.com/ro-kannan/airflow-retail-pipeline-aws) | Omnichannel orders from two sources hit a quality gate — clean rows load to analytics, bad rows are quarantined to S3 before they reach the database. | Apache Airflow · AWS S3 · PostgreSQL · Docker · Python | — |
 | [Multi-Consumer AI Data Gateway](https://github.com/ro-kannan/multi-consumer-ai-data-gateway) | The controlled layer between AI agents and your database — per-consumer auth, rate limits, and validated SQL execution. | FastAPI · SQLAlchemy · PostgreSQL · Python | — |
 | [SCD Type 2 — Lending Dimension](https://github.com/ro-kannan/scd-type2-lending) | Historical reports silently return wrong numbers when a dimension attribute changes — because the join returns today's value, not what it was at the time. SCD Type 2 fixes this. | dbt · PostgreSQL · Python | — |
 | [On-Prem to Cloud Migration](https://github.com/ro-kannan/aws-snowflake-onprem-migration) | Full on-prem to cloud migration: incremental extraction, automated on a schedule, and a dbt transformation layer handling the migration seamlessly. | AWS · Snowflake · EC2 · dbt | — |
