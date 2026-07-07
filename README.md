@@ -27,6 +27,7 @@ Recurring patterns from client engagements, rebuilt as sample solutions with syn
 
 | Project | Description | Stack | Demo |
 |---------|-------------|-------|------|
+| [Multi-Agent Pipeline with Grounding Guardrails](https://github.com/ro-kannan/multi-agent-langgraph-guardrails) | Four agents research, filter, write, and review real competitor trial data - when a citation can't be verified, the pipeline pauses for a human instead of publishing anyway. | LangGraph · Groq · ClinicalTrials.gov API · Langfuse · Python | - |
 | [RAG Hybrid Contract Search](https://github.com/ro-kannan/rag-hybrid-contract-search) | Naive vector search misses precise contract clauses - hybrid search (vector + BM25) closes the gap, measured head-to-head, with counterparty identity redacted before a cloud LLM ever sees it. | pgvector · BM25 · Groq · Slack · Python | - |
 | [Compliance RAG Baseline + Evaluation](https://github.com/ro-kannan/compliance-rag-baseline-eval) | Fully local RAG over compliance policy documents - a chunking choice that quietly cuts a word in half turned out to drop a compliance-critical clause. | Ollama · ChromaDB · RAGAS · DeepEval · Python | - |
 | [Lending Data MCP Server](https://github.com/ro-kannan/lending-data-mcp-server) | A governed MCP layer wrapping a lending data API - the same access rules apply whether a human, a dashboard, or an AI agent is asking. | MCP · FastAPI · PostgreSQL · Python | - |
